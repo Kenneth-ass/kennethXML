@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Touristpot>
+    <world>
+        <best_touristpot>
+            <name>
+                 <Eiffel_tower>
+                    <location>
+                        <paris>
+                            <description>
+                                The tower was designed as the centerpiece of the 1889 World's Fair in Paris and was meant to commemorate the centennial of the French Revolution and show off France's modern mechanical prowess on a world stage
+                            </description>
+                        </paris>
+                    </location>
+                 </Eiffel_tower>
+            </name>
+        </best_touristpot>
+    </world>
+    <asia>
+        <best_destinations>
+             <name>
+                  <tokyo>
+                    <famous_in_tokyo>
+                        Tokyo Skytree
+                        Shibuya Crossing
+                    </famous_in_tokyo>
+                  </tokyo>                    
+             </name>
+        </best_destinations>
+    </asia>
+    <philippines>
+        <hidden_tourist_spot>
+            <location>
+                <bohol>
+                    <anda>
+                        UNTOUCHED PARADISE
+                    </anda>
+                </bohol>
+            </location>
+        </hidden_tourist_spot>
+    </philippines>
+    <tarlac>
+        <tarlac_famous_nature_adventure>
+            <Tarlac_Recreational_Park>
+                <acron_name>
+                    <TRP>
+                        <history>
+                            The TRP, also known as the Jose V. Yap Recreational Sports Center, was the brainchild of Jose Yap who envisioned a sports complex in Tarlac City that would be at par with international standards. But it was his son, Victor Yap, who made the dream a reality during his term as Governor of the province
+                        </history>
+                    </TRP>
+                </acron_name>
+            </Tarlac_Recreational_Park>
+        </tarlac_famous_nature_adventure>
+    </tarlac>
+    <capas>
+        <capas_heritage>
+            <capas_national_shrine>
+                <tagalog>
+                    <pambansang_dambana_ng_capas>
+                        <description>
+                            The area where the Bataan Death March ended was proclaimed as "Capas National Shrine" by President Corazon Aquino on 7 December 1991.[1] The shrine encompasses 54 hectares (130 acres) of parkland, 35 hectares (86 acres) of which have been planted with trees each representing the dead, at the location of the former concentration camp. Prior to the construction, the location was under the control of the United States Navy as U.S. Naval Radio Station, Tarlac until 1989.
+                        </description>
+                        <total_burials>
+                            30,000+ (around 25,000 Filipinos and 6,000 Americans)
+                        </total_burials>
+                    </pambansang_dambana_ng_capas>
+                </tagalog>
+            </capas_national_shrine>
+        </capas_heritage>
+    </capas>
+</Touristpot>
